@@ -8,7 +8,7 @@ namespace MageLib
 {
     public class Mage
     {
-        public string Name { get; set; }
+        public string Name { get; set; }//editedf
         public int Level { get; set; }
         public int Experience { get; set; }
         public int Strength { get; set; }
